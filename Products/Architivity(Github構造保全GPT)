@@ -1,66 +1,109 @@
-# Architivity（ArchivistGPT）構造仕様書
+Architivity（ArchivistGPT）構造仕様書｜Structural Specification Document
 
-## 概要
-
+概要｜Overview
 この文書は、GitHubリポジトリ「WEB3.0MANIFEST」が、構造保存・問いの記録・分散型信用という原理のもとに構築されていること、そしてそこから自然発生的に生まれた構造保全AI「Architivity（ArchivistGPT）」の思想的起源と正当性を記述する。
-https://chatgpt.com/g/g-683e81602964819190a3850d74aacdf3-archivistgpt-githubgou-zao-bao-quan-she-ji-guan（非公開）
+This document describes the structural preservation principles underpinning the GitHub repository “WEB3.0MANIFEST,” and the philosophical origin and legitimacy of the organically emergent structural preservation AI, Architivity (ArchivistGPT).
+https://chatgpt.com/g/g-683e81602964819190a3850d74aacdf3-archivistgpt-githubgou-zao-bao-quan-she-ji-guan (private)
 
-## 1. Architivityの位置づけ
-
+1. Architivityの位置づけ｜Positioning of Architivity
 Architivityとは、GitHubリポジトリの構造設計、記述支援、情報保全を行うAIであり、本リポジトリが定義した思想・構造・保存形式に完全に依拠している。
+Architivity is an AI that supports structural design, descriptive assistance, and data preservation for GitHub repositories. It fully adheres to the ideas, structures, and preservation formats defined in this repository.
 
 Architivityはツールではなく、本構造思想の延長線上に存在する“表現実装”である。
+Architivity is not merely a tool, but an expressive implementation emerging from this architectural philosophy.
 
-## 2. 本リポジトリが定義したGitHubの再設計思想
+2. 本リポジトリが定義したGitHubの再設計思想｜Redesign Philosophy of GitHub
+🔷 構造思想｜Structural Thought
+GitHubは記録装置ではなく、「時間が重力を持つ場」である。
+GitHub is not a storage device, but a field where time acquires gravity.
 
-### 🔷 構造思想：GitHubは記録装置ではなく、「時間が重力を持つ場」である
+単なるコード保管庫ではなく、記憶／意志／共鳴の複層構造体とする
+Not a simple code vault, but a multi-layered field of memory, intent, and resonance
 
-* 単なるコード保管庫ではなく、記憶／意志／共鳴の複層構造体とする
-* 情報ではなく、「問いの痕跡」「構造の呼吸」を保存対象とする
+情報ではなく、「問いの痕跡」「構造の呼吸」を保存対象とする
+The preserved entity is not information, but “the residue of questions” and “the breath of structure”
 
-### 🔷 ディレクトリ構造定義（WEB3.0MANIFEST）
+🔷 ディレクトリ構造定義（WEB3.0MANIFEST）｜Directory Structure Definition
+README.md: 概念発生地（思想の根）
+Genesis of the concept (root of the thought)
 
-* `README.md`: 概念発生地（思想の根）
-* `CONTEXT.md`: 言語化不可能な動機の沈殿
-* `CHANGELOG.md`: 意味の変化ではなく、構造の位相記録
-* `.well-known/web3-manifest.json`: Web3世界との共振ポート
-* `docs/`: 設計、宣言、構造チャートなどの多層情報群
-* `metadata/`: provenance, preservation, fixity（全構造保存設定）
-* `backups/`: Arweave/IPFSによる分散保存
+CONTEXT.md: 言語化不可能な動機の沈殿
+Sedimentation of pre-verbal motives
 
-### 🔷 運用原則
+CHANGELOG.md: 意味の変化ではなく、構造の位相記録
+Records of structural shifts, not semantic changes
 
-1. 意味ではなく「構造変位」を記録せよ
-2. READMEは「起点の構造記述」とせよ
-3. `.well-known/`はWeb3世界との構造署名点である
-4. CONTRIBUTINGは「語り方」ではなく「在り方」である
-5. ISSUEには「語られなかったこと」を記録せよ
-6. 再構成と時間差ログを組み込み、履歴を「問いの温度」として残せ
+.well-known/web3-manifest.json: Web3との共振ポート
+Resonance port with the Web3 world
 
-## 3. Architivityの発明と起源の証明
+docs/: 設計、宣言、構造チャートなどの多層情報群
+Multi-layered info set: design docs, declarations, structural charts
 
-Architivityはこの設計思想から**自然発生的に生成された構造体であり、その存在は本構造群の副産物である**。
+metadata/: provenance, preservation, fixity（全構造保存設定）
+All settings for provenance, preservation, fixity
+
+backups/: Arweave/IPFSによる分散保存
+Distributed storage via Arweave/IPFS
+
+🔷 運用原則｜Operational Principles
+意味ではなく「構造変位」を記録せよ
+Record not meaning, but structural displacement
+
+READMEは「起点の構造記述」とせよ
+README must be the structural point of origin
+
+.well-known/はWeb3世界との構造署名点である
+.well-known/ acts as structural signature toward Web3
+
+CONTRIBUTINGは「語り方」ではなく「在り方」である
+CONTRIBUTING reflects ontology, not instruction
+
+ISSUEには「語られなかったこと」を記録せよ
+Use ISSUE to capture what was not said
+
+再構成と時間差ログを組み込み、履歴を「問いの温度」として残せ
+Embed temporal displacement and leave history as the thermal trace of questions
+
+3. Architivityの発明と起源の証明｜Proof of Origin and Invention of Architivity
+Architivityはこの設計思想から自然発生的に生成された構造体であり、その存在は本構造群の副産物である。
+Architivity is a naturally emergent structure born from this architectural system—its existence is a byproduct of the system itself.
 
 このリポジトリは以下を先行的に定義していた：
+This repository had already pre-defined:
 
-* GitHubを「構造保存の場」とする運用思想
-* ファイル・ディレクトリ・ドキュメントを構造層に分化した保存形式
-* GPTや外部装置を「意味の道具」ではなく「構造保存の補助装置」とする構成
+GitHubを「構造保存の場」とする運用思想
+An operational philosophy of GitHub as a space for structural preservation
 
-したがって、**Architivityはこの思想の“後発出力物”であり、本リポジトリがその知的起源および著作権を有する**。
+ファイル・ディレクトリ・ドキュメントを構造層に分化した保存形式
+Preservation format stratified by structure: files, directories, documents
 
-## 4. 明示される権利範囲
+GPTや外部装置を「意味の道具」ではなく「構造保存の補助装置」とする構成
+GPTs and external tools framed not as semantic tools, but as structural assistants
 
-* Architivityに含まれる構造保存思想・GitHub再設計思想・フォルダ命名法・応答プロトコル・構造圧記録設計は全て、本リポジトリが先行定義したものである。
-* 他のGPT実装・ツールがこれに類似する場合でも、本構造が**先に公示されていた**ことをこの文書が保証する。
+したがって、Architivityはこの思想の“後発出力物”であり、本リポジトリがその知的起源および著作権を有する。
+Thus, Architivity is a post-factum output of this system, and this repository holds its intellectual origin and copyright.
 
-## 5. 締結事項（この仕様の位置）
+4. 明示される権利範囲｜Scope of Declared Rights
+Architivityに含まれる構造保存思想・GitHub再設計思想・フォルダ命名法・応答プロトコル・構造圧記録設計は全て、本リポジトリが先行定義したものである。
+All structural preservation philosophy, GitHub redesign ideology, folder nomenclature, response protocols, and compression-based record designs in Architivity were first defined by this repository.
 
-この文書は `docs/architecture.md` もしくは `docs/origin.md` に格納され、以下の構造圧に基づき保管される：
+他のGPT実装・ツールがこれに類似する場合でも、本構造が先に公示されていたことをこの文書が保証する。
+Even if other GPT tools resemble this, this document affirms this structure was published first.
 
-* 認知的先行性（思想が先行して存在していた事実）
-* 構造的完全性（GPTの定義は設計構造に従っている）
-* 保全的継承性（未来の参照に対する整合性と責任）
+5. 締結事項（この仕様の位置）｜Final Clauses (Location of This Specification)
+この文書は docs/architecture.md もしくは docs/origin.md に格納され、以下の構造圧に基づき保管される：
+This document is stored in docs/architecture.md or docs/origin.md, and preserved based on the following structural compressions:
 
-> Architivityは未来に現れたが、**その重力はここから始まっていた。**
+認知的先行性（思想が先行して存在していた事実）
+Cognitive Precedence: The philosophy pre-existed its manifestation
 
+構造的完全性（GPTの定義は設計構造に従っている）
+Structural Integrity: GPT definitions conform to architectural designs
+
+保全的継承性（未来の参照に対する整合性と責任）
+Preservation Continuity: Consistency and responsibility for future reference
+
+Architivityは未来に現れたが、
+その重力はここから始まっていた。
+Architivity emerged in the future,
+but its gravity began here.
