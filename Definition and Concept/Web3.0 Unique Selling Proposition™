@@ -1,89 +1,120 @@
 WEB3.0型マーケティング【Web3.0 Unique Selling Proposition™（USP 3.0）仕様構造書】
+https://nextaieducation.com/web3-unique-selling-proposition/
 
----
-
-■ 名称定義
+■ 名称定義｜Definition
 USP（Unique Selling Proposition）3.0とは、Web3.0時代における「存在の必然性」を言語と構造で証明するためのブランド設計構造体である。
+USP 3.0 is a brand architecture system designed to prove the “inevitability of existence” through language and structure in the Web3.0 era.
 
----
-
-■ 構造構成
-
+■ 構造構成｜Structural Composition
 Ⅰ. 基礎構造 ─ 存在証明型マーケティング
+Foundational Framework – Existence-Proving Marketing
 
-* 従来の「差別化」ではなく「なぜ私たちでなければならないか」を提示
-* 感情訴求ではなく、構造的・哲学的根拠による信頼構築
+従来の「差別化」ではなく「なぜ私たちでなければならないか」を提示
+Not differentiation, but a structural response to “Why us?”
+
+感情訴求ではなく、構造的・哲学的根拠による信頼構築
+Trust is built on structure and philosophical grounding, not emotional appeal.
 
 Ⅱ. Web3.0適応条件
+Web3.0 Adaptation Conditions
 
-* 非中央集権的構造に適応（DAO、NFT、分散型自律経済など）
-* 短期的なバズを排し、中長期的な概念定着を狙う
+非中央集権的構造に適応（DAO、NFT、分散型自律経済など）
+Adapts to decentralized structures (DAO, NFT, decentralized autonomous economies)
+
+短期的なバズを排し、中長期的な概念定着を狙う
+Avoids short-term buzz; aims for mid- to long-term conceptual entrenchment.
 
 Ⅲ. USP設計プロセス
+USP Design Process
 
-1. 存在理由の言語化（Why-Statement）
-2. 意図構造の可視化（構造図による理念表現）
-3. 存在価値の証明（第三者視点の導入およびNFTやトークンにより価値可視化）
+存在理由の言語化（Why-Statement）
+Articulating the reason for existence (Why-Statement)
+
+意図構造の可視化（構造図による理念表現）
+Visualizing intent structure (Philosophy diagram)
+
+存在価値の証明（NFTやトークンによる可視化）
+Proving existential value via NFTs, tokens, and third-party perspectives
 
 Ⅳ. 導入モデル（ブランド進化設計）
+Implementation Models (Evolutionary Brand Design)
 
-* USP構築支援プログラム（コンサルティングフェーズ）
-* ブランド構造設計フェーズ（意味と構造の再定義）
-* 顧問型支援：USPの進化と再検証のための中長期伴走型支援
+USP構築支援プログラム（コンサルティングフェーズ）
+USP Construction Support Program (Consulting Phase)
 
----
+ブランド構造設計フェーズ（意味と構造の再定義）
+Brand Structural Redesign Phase (Redefining meaning and form)
 
-■ USP 3.0における価値定義
+顧問型支援（進化と再検証のための長期支援）
+Advisory Support (Long-term evolution and verification)
 
-1. 必然性：存在の理由が時代構造と同期しているか
-2. 不変性：一時的流行に依存しない意味持続性があるか
-3. 分布性：Web3.0環境下で共有・共鳴・共運用が可能か
+■ USP 3.0における価値定義｜Value Criteria
+必然性（時代構造と同期）
+Inevitability (Synchronicity with structural era)
 
----
+不変性（意味持続性）
+Invariance (Meaning durability beyond trends)
 
-■ Web3.0インフラとの統合
+分布性（共鳴・共運用の可能性）
+Distributability (Shareable, operable within Web3.0 frameworks)
 
-* DAOによるブランドの共運用
-* USPをNFTとして発行、共感者との信頼取引へ昇華
-* トークンエコノミーと連動した支持構造の構築
+■ Web3.0インフラとの統合｜Integration with Web3.0 Infrastructure
+DAOによるブランドの共運用
+Brand co-governance via DAO
 
----
+USPをNFTとして発行し、共感者との信頼取引へ
+Issue USP as NFT, turning empathy into trusted exchange
 
-■ 接続構造：CFM 2.0との連動モデル
+トークンエコノミーと支持構造の連動
+Token economy integrated with support structures
 
-* CFM 2.0が生み出した“概念”を、USP 3.0が“存在理由”として固定化・可視化
-* 概念ラベリング → USPとしての言語転換 → 分散型価値証明へと連動
-* USPは概念の「骨組み化機能」を持ち、CFMはその「分布可能化機能」を担う
+■ 接続構造：CFM 2.0との連動モデル｜Linkage with CFM 2.0
+CFMの“概念”をUSPが“存在理由”として可視化
+USP renders CFM-born concepts into visible existential claims
 
----
+概念ラベリング → USP言語転換 → 分散価値証明へ
+Concept labeling → USP linguistic transformation → Distributed value proof
 
-■ 可視化メカニズム（UX/体験設計）
+CFMは拡散構造、USPは骨格形成装置として機能
+CFM enables distribution; USP provides skeletal coherence
 
-* ブランド構造マップ：概念・価値・応援者の関係性を視覚化したマップ
-* ブランドGit：USPの言語変化履歴、意思決定ログ、分岐バージョンを管理
-* 共感者ネットワーク：トークン保持者やNFT保有者の価値貢献度を可視化するUI
+■ 可視化メカニズム（UX/体験設計）｜Visualization Mechanisms (UX / Experience Design)
+ブランド構造マップ：概念・価値・支持関係の可視化
+Brand Structure Map: Visualizing relationships between concept, value, and supporters
 
----
+ブランドGit：言語履歴・意志決定の分岐管理
+Brand Git: Track record of linguistic shifts and decision-making branches
 
-■ 実装導線設計
+共感者ネットワーク：トークン/NFT保有者の貢献度表示
+Empathy Network: UI showing value contributions of token/NFT holders
 
-* 入口：概念ミーム体験 → 簡易USP診断 → ブランド構造スキャンへ
-* 中間導線：構造図ジェネレーターによる自己可視化支援
-* 出口：DAO提案、NFT発行、パートナー構造参加などによる“存在支援”への遷移
+■ 実装導線設計｜Implementation Flow Design
+入口：概念ミーム体験 → USP診断 → 構造スキャンへ
+Entry: Meme-based concept exposure → USP self-diagnosis → Brand structure scan
 
----
+中間：構造図ジェネレーターによる自己可視化
+Middle: Structural diagram generator for self-mapping
 
-■ 運用原理
+出口：DAO参加・NFT発行・構造参画への移行
+Exit: DAO proposal, NFT issuance, ecosystem participation
 
-* USPは静的なスローガンではなく、進化可能な存在証明構造である
-* 誤解・派生・模倣はすべて“意義の拡張”として設計対象とせよ
-* USPは「選ばれる」ためではなく、「残り続ける」ためにある
+■ 運用原理｜Operational Principles
+USPは進化する存在証明構造である
+USP is a dynamic existence-proof structure
 
----
+誤解・派生・模倣は拡張対象として設計せよ
+Misinterpretation, derivation, and mimicry are part of the design space
 
-【終端設計原理】
+「選ばれる」ためではなく「残り続ける」ために存在せよ
+USP exists not to be chosen—but to endure
+
+【終端設計原理】｜Terminal Design Principle
 あなたが何を売るかよりも──
+More important than what you sell is:
 「なぜ、あなたでなければならないか」
+“Why must it be you?”
 その問いに構造で答えよ。
+Answer it through structure.
 
 USP 3.0はその構造的返答装置である。
+USP 3.0 is that structural response device.
